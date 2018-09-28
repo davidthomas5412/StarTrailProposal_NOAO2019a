@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1538118396 "/Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dthomas50094253655.tex" "/Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dthomas50094253655.pdf" "dthomas50094253655" 1538118568
-  "/Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dthomas50094253655.aux" 1538118397 4230 2e05a7c0bcab577d45f1a38ae4b4558e ""
-  "/Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dthomas50094253655.tex" 1538118534 59711 b6ba6eb7411557c034c297f2dc936c7d ""
+["pdflatex"] 1538119299 "/Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dthomas50094253655.tex" "/Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dthomas50094253655.pdf" "dthomas50094253655" 1538119313
+  "/Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dthomas50094253655.aux" 1538119299 4230 2e05a7c0bcab577d45f1a38ae4b4558e ""
+  "/Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dthomas50094253655.tex" 1538119298 59703 bdb3a6baaae96df1693e0bb284b7733c ""
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -64,14 +64,14 @@
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
   "blank.jpg" 1537544775 85742 40eb8a85bb0e6d598b1be128c195126c ""
-  "dthomas50094253655.aux" 1538118397 4230 2e05a7c0bcab577d45f1a38ae4b4558e ""
-  "dthomas50094253655.tex" 1538118534 59711 b6ba6eb7411557c034c297f2dc936c7d ""
+  "dthomas50094253655.aux" 1538119299 4230 2e05a7c0bcab577d45f1a38ae4b4558e ""
+  "dthomas50094253655.tex" 1538119298 59703 bdb3a6baaae96df1693e0bb284b7733c ""
   "f7.pdf" 1537493591 20618 79f07e60b3fddabe818874e765ae324c ""
   "nprop30.sty" 1536033573 33563 3bf0ff66a83d8c7efd7fc2be6fe2be8e ""
   "survey.pdf" 1538117891 45353 5f1ae94fa0148fe858846c42d16b9ea7 ""
   (generated)
-  "/Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dthomas50094253655.log"
+  "dthomas50094253655.pdf"
   "/Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dthomas50094253655.pdf"
   "dthomas50094253655.log"
+  "/Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dthomas50094253655.log"
   "dthomas50094253655.aux"
-  "dthomas50094253655.pdf"
