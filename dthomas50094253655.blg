@@ -2,48 +2,53 @@ This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: dthomas50094253655.aux
 The style file: aasjournal.bst
-I found no \citation commands---while reading file dthomas50094253655.aux
 Database file #1: references.bib
+Repeated entry---line 2178 of file references.bib
+ : @article{2015AJ....150..150F
+ :                             ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for ""
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 0 entries,
+Warning--empty journal in 1986PASP...98..802H
+You've used 5 entries,
             3183 wiz_defined-function locations,
-            647 strings with 4338 characters,
-and the built_in function-call counts, 20 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 0
-:= -- 8
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+            694 strings with 7853 characters,
+and the built_in function-call counts, 4160 in all, are:
+= -- 213
+> -- 547
+< -- 3
++ -- 181
+- -- 187
+* -- 466
+:= -- 841
+add.period$ -- 5
+call.type$ -- 5
+change.case$ -- 32
+chr.to.int$ -- 5
+cite$ -- 6
+duplicate$ -- 108
+empty$ -- 157
+format.name$ -- 198
+if$ -- 758
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 4
-num.names$ -- 0
-pop$ -- 0
+missing$ -- 4
+newline$ -- 19
+num.names$ -- 21
+pop$ -- 41
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 32
 quote$ -- 0
-skip$ -- 1
+skip$ -- 88
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 113
+swap$ -- 10
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
-warning$ -- 0
-while$ -- 0
+type$ -- 45
+warning$ -- 1
+while$ -- 19
 width$ -- 0
-write$ -- 3
+write$ -- 52
 (There was 1 error message)

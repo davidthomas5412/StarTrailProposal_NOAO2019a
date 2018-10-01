@@ -1,4 +1,44 @@
 \begin{thebibliography}{}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
+\bibitem[{{Dhillon} {et~al.}(2007){Dhillon}, {Marsh}, {Stevenson}, {Atkinson},
+  {Kerry}, {Peacocke}, {Vick}, {Beard}, {Ives}, {Lunney}, {McLay}, {Tierney},
+  {Kelly}, {Littlefair}, {Nicholson}, {Pashley}, {Harlaftis}, \&
+  {O'Brien}}]{2007MNRAS.378..825D}
+{Dhillon}, V.~S., {Marsh}, T.~R., {Stevenson}, M.~J., {et~al.} 2007, \mnras,
+  378, 825
+
+\bibitem[{{Djorgovski} {et~al.}(2012){Djorgovski}, {Mahabal}, {Drake},
+  {Graham}, {Donalek}, \& {Williams}}]{2012IAUS..285..141D}
+{Djorgovski}, S.~G., {Mahabal}, A.~A., {Drake}, A.~J., {et~al.} 2012, in IAU
+  Symposium, Vol. 285, New Horizons in Time Domain Astronomy, ed. E.~{Griffin},
+  R.~{Hanisch}, \& R.~{Seaman}, 141--146
+
+\bibitem[{{Flaugher} {et~al.}(2015){Flaugher}, {Diehl}, {Honscheid}, {Abbott},
+  {Alvarez}, {Angstadt}, {Annis}, {Antonik}, {Ballester}, {Beaufore},
+  {Bernstein}, {Bernstein}, {Bigelow}, {Bonati}, {Boprie}, {Brooks},
+  {Buckley-Geer}, {Campa}, {Cardiel-Sas}, {Castander}, {Castilla}, {Cease},
+  {Cela-Ruiz}, {Chappa}, {Chi}, {Cooper}, {da Costa}, {Dede}, {Derylo},
+  {DePoy}, {de Vicente}, {Doel}, {Drlica-Wagner}, {Eiting}, {Elliott}, {Emes},
+  {Estrada}, {Fausti Neto}, {Finley}, {Flores}, {Frieman}, {Gerdes},
+  {Gladders}, {Gregory}, {Gutierrez}, {Hao}, {Holland}, {Holm}, {Huffman},
+  {Jackson}, {James}, {Jonas}, {Karcher}, {Karliner}, {Kent}, {Kessler},
+  {Kozlovsky}, {Kron}, {Kubik}, {Kuehn}, {Kuhlmann}, {Kuk}, {Lahav}, {Lathrop},
+  {Lee}, {Levi}, {Lewis}, {Li}, {Mandrichenko}, {Marshall}, {Martinez},
+  {Merritt}, {Miquel}, {Mu{\~n}oz}, {Neilsen}, {Nichol}, {Nord}, {Ogando},
+  {Olsen}, {Palaio}, {Patton}, {Peoples}, {Plazas}, {Rauch}, {Reil}, {Rheault},
+  {Roe}, {Rogers}, {Roodman}, {Sanchez}, {Scarpine}, {Schindler}, {Schmidt},
+  {Schmitt}, {Schubnell}, {Schultz}, {Schurter}, {Scott}, {Serrano}, {Shaw},
+  {Smith}, {Soares-Santos}, {Stefanik}, {Stuermer}, {Suchyta}, {Sypniewski},
+  {Tarle}, {Thaler}, {Tighe}, {Tran}, {Tucker}, {Walker}, {Wang}, {Watson},
+  {Weaverdyck}, {Wester}, {Woods}, {Yanny}, \& {DES
+  Collaboration}}]{2015AJ....150..150F}
+{Flaugher}, B., {Diehl}, H.~T., {Honscheid}, K., {et~al.} 2015, \aj, 150, 150
+
+\bibitem[{{Howell} \& {Jacoby}(1986)}]{1986PASP...98..802H}
+{Howell}, S.~B., \& {Jacoby}, G.~H. 1986, 98, 802
+
+\bibitem[{{Thomas} \& {Kahn}(2018)}]{2018arXiv180806977T}
+{Thomas}, D., \& {Kahn}, S.~M. 2018, ArXiv e-prints, arXiv:1808.06977
+
 \end{thebibliography}

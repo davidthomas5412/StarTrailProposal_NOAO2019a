@@ -71,6 +71,8 @@
 \usepackage{graphicx}
 \usepackage{longtable}
 \usepackage{natbib}
+\usepackage{hyperref}
+\hypersetup{colorlinks = true, citecolor = blue, linkcolor = magenta, urlcolor = magenta}
 
 
 % Please do not modify or delete this line.
@@ -139,7 +141,7 @@
 % yourself, do so with a `\\' command at the appropriate point in
 % the title text.  Use both upper and lower case letters (NOT ALL CAPS).
 
-\title{Probing Short Duration Stellar Variability with Star Trail Images of K2 Fields}
+\title{Probing Short Duration Stellar Variability with Star Trail Images of Four K2 Fields}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -154,7 +156,7 @@
 % DO NOT remove the \begin{abstract} and \end{abstract} lines.
 
 \begin{abstract}
-Thomas \& Kahn (2018) demonstrated, using high fidelity ray-tracing simulations, that star trail images enable wide-field ground-based telescopes to resolve stellar variability down to a time scale of 10 milliseconds. We request half a night with the Dark Energy Camera on the Blanco 4-m telescope to take star trail images of four K2 fields to validate this method, characterize its performance, and detect new sources of stellar variability and events. The 270 square degree survey will be the first of its kind and will add a new dimension to our understanding of over 10,000 sources.
+\citealt{2018arXiv180806977T} demonstrated, using high fidelity ray-tracing simulations, that star trail images enable wide-field ground-based telescopes to resolve stellar variability down to a time scale of 10 milliseconds. We request half a night with the Dark Energy Camera on the Blanco 4-m telescope to take star trail images of four K2 fields to validate this method, characterize its performance, and detect new sources of stellar variability. The 270 square degree survey will be the first of its kind and will add a new dimension to our understanding of over 10,000 sources.
 
 % improve our understanding of the variable universe on short time scales. 
 %short duration stellar variability composition of the universe.
@@ -236,7 +238,7 @@ Thomas \& Kahn (2018) demonstrated, using high fidelity ray-tracing simulations,
 \instrument{DECam}
 \numnights{0.5}
 \lunardays{grey}
-\optimaldates{June}
+\optimaldates{May - July}
 \acceptabledates{May - July}
 \end{obsrun}
 
@@ -473,14 +475,18 @@ Thomas \& Kahn (2018) demonstrated, using high fidelity ray-tracing simulations,
 
 \subsection*{Probing Short Duration Stellar Variability with Star Trails}
 
- Charge-Coupled Devices (CCDs), the detector of choice for optical astronomy, take around 10 seconds to read out. This limits the time resolution of conventional telescopes. Dedicated instruments using special frame transfer and electron multiplying CCDs have achieved time resolution in tens of milliseconds on a 5 arcsecond field of view (Dhillon et al. 2007, 2014, 2016; Harding et al. 2016). While these instruments are sufficient for studying individual sources of variability, they are not well-suited for large surveys or searching for new sources of variability. In Thomas \& Kahn (2018), we present a technique that allows existing wide-field telescopes to achieve comparable time resolution. We propose using the Dark Energy Camera (DECam) on the Blanco 4-m telescope to validate this method and to provide sub-second photometry for four strategically chosen K2 fields.
+
+Time domain astronomy has now begun in earnest and is revolutionizing many fields, especially using large surveys capable of collecting light curves en masse \citep{2012IAUS..285..141D}. However, almost none of these surveys is performing optical monitoring at less than a few minute timescales, omitting a variability regime that we know to be important for studying phenomena ranging from compact stellar remnants to trans-Neptunian objects: sub-second photometry. In \citealt{2018arXiv180806977T} we presented a new method and demonstrated, through simulations, that it is capable of collecting such light curves for thousands of objects at a time. We propose using the Dark Energy Camera (DECam) on the Blanco 4-m telescope to validate this method and to provide sub-second photometry for four strategically chosen K2 fields.
+
+
+% Charge-Coupled Devices (CCDs), the detector of choice for optical astronomy, take around 10 seconds to read out. This limits the time resolution of conventional telescopes. Dedicated instruments using special frame transfer and electron multiplying CCDs have achieved time resolution in tens of milliseconds on a 5 arcsecond field of view (Dhillon et al. 2007, 2014, 2016; Harding et al. 2016). While these instruments are sufficient for studying individual sources of variability, they are not well-suited for large surveys or searching for new sources of variability. In Thomas \& Kahn (2018), we present a technique that allows existing wide-field telescopes to achieve comparable time resolution. We propose using the Dark Energy Camera (DECam) on the Blanco 4-m telescope to validate this method and to provide sub-second photometry for four strategically chosen K2 fields.
 
 % \subsection*{Exploring the Variable Universe on Short Time Scales}
-The method is comprised of operational and image processing components. The operational component is to take star trail images. Howell \& Jacoby realized that each trail serves as a light curve for its corresponding source and facilitates high time resolution photometry (Howell \& Jacoby 1986). We process the noisy star trail images by training a deep neural network to identify stellar variability in simulated star trail images from the Large Synoptic Survey Telescope. The network detection efficiency on tophat-like flares is shown in Figure \ref{fig:1}. 
+Our method is comprised of operational and image processing components. The operational component is to take star trail images. The authors of \citealt{1986PASP...98..802H} realized that each trail serves as a light curve for its corresponding source and facilitates high time resolution photometry. We train a deep neural network to identify stellar variability in simulated star trail images from the Large Synoptic Survey Telescope (LSST). The network detection efficiency on tophat-like flares is shown in Figure \ref{fig:1}. We are preparing the next generation of our network for DECam. 
 
-The Dark Energy Camera on the Blanco 4-m telescope is the best instrument to validate our method on because it has a wide field of view and superb resolution. The 2.2 degree field of view captures many sources simultaneously and allows us to survey the sky around 700 times faster than existing high time resolution instruments. The wide field is complemented by a 570 Megapixel camera and 0.26 arcsecond pixel scale which mean that a trailing source will spend approximately $17 / \cos(\delta)$ milliseconds over each pixel, fostering excellent time resolution. After validating and further refining our method on DECam we hope to employ it during the commissioning of the Large Synoptic Survey Telescope. 
+DECam's wide field of view and superb resolution make it the best instrument to validate our method with \citep{2015AJ....150..150F}. The 2.2 degree field of view captures many sources simultaneously and allows us to survey the sky around 700 times faster than existing high time resolution instruments \citep{2007MNRAS.378..825D}. The wide field is complemented by a 570 Megapixel camera and 0.26 arcsecond pixel scale which mean that a trailing source will spend approximately $17 / \cos(\delta)$ milliseconds over each pixel, leading to excellent time resolution. After validating and further refining our method on DECam we hope to employ it during the commissioning of the LSST. 
 
-The proposed survey is the first of its kind and will add a new dimension to our knowledge of the four chosen K2 fields. The analysis we will pursue is contingent on what we uncover. Detections of M-dwarf flares in open clusters would allow us to constrain their frequency, correlate them with cluster properties, and compare high time resolution photometry of the flare up with numerical simulations. Occultations from Trans-Neptunian Objects would allow us to detect new structures in the solar system. The small Kuiper Belt Objects that are of particular theoretical interest, would produce occultations lasting for tens of milliseconds. Finally, perhaps the most intriguing possibility is that we will discover new sources of variability. 
+The proposed survey is the first of its kind and will add a new dimension to our knowledge of the four chosen K2 fields. Detecting M-dwarf flares in open clusters will allow us to constrain their frequency, correlate them with cluster properties, and compare high time resolution photometry of the flare up with numerical simulations \citep{}. Occultations from trans-Neptunian objects would allow us to detect new structures in the solar system, in particular the small Kuiper Belt Objects that are of particular theoretical interest and which produce occultations lasting for tens of milliseconds. Finally, perhaps the most intriguing possibility is that we will discover new sources of variability. 
 
 %\citep{2017arXiv170705167S}
 
