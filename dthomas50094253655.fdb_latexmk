@@ -1,15 +1,15 @@
 # Fdb version 3
-["bibtex dthomas50094253655"] 1538383536 "dthomas50094253655.aux" "dthomas50094253655.bbl" "dthomas50094253655" 1538383537
+["bibtex dthomas50094253655"] 1538383536 "dthomas50094253655.aux" "dthomas50094253655.bbl" "dthomas50094253655" 1538424830
   "/usr/local/texlive/2016/texmf-dist/bibtex/bst/aastex/aasjournal.bst" 1457045297 33461 7890dd95f8d54a3591b8704229ec0807 ""
-  "dthomas50094253655.aux" 1538383536 4273 813820c124d15cf6784358db3d21bc85 ""
+  "dthomas50094253655.aux" 1538424830 4273 813820c124d15cf6784358db3d21bc85 ""
   "dthomas50094253655.bcf" 0 -1 0 ""
   "references.bib" 1537548070 100212 7995dc2055b1e63014d55b20c7548bbb ""
   (generated)
-  "dthomas50094253655.blg"
   "dthomas50094253655.bbl"
-["pdflatex"] 1538383536 "/Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dthomas50094253655.tex" "/Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dthomas50094253655.pdf" "dthomas50094253655" 1538383537
-  "/Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dthomas50094253655.aux" 1538383536 4273 813820c124d15cf6784358db3d21bc85 ""
-  "/Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dthomas50094253655.tex" 1538383533 63237 1e485366cd876cffbe43326679e5438d ""
+  "dthomas50094253655.blg"
+["pdflatex"] 1538424829 "/Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dthomas50094253655.tex" "/Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dthomas50094253655.pdf" "dthomas50094253655" 1538424830
+  "/Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dthomas50094253655.aux" 1538424830 4273 813820c124d15cf6784358db3d21bc85 ""
+  "/Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dthomas50094253655.tex" 1538424829 63311 1e750e9cdda33dc0f40336ddd111ca61 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -71,15 +71,15 @@
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
   "blank.jpg" 1537544775 85742 40eb8a85bb0e6d598b1be128c195126c ""
-  "dthomas50094253655.aux" 1538383536 4273 813820c124d15cf6784358db3d21bc85 ""
+  "dthomas50094253655.aux" 1538424830 4273 813820c124d15cf6784358db3d21bc85 ""
   "dthomas50094253655.bbl" 1538383536 120 03af8e43b4d7e103a1277aae4f88e80b "bibtex dthomas50094253655"
-  "dthomas50094253655.tex" 1538383533 63237 1e485366cd876cffbe43326679e5438d ""
+  "dthomas50094253655.tex" 1538424829 63311 1e750e9cdda33dc0f40336ddd111ca61 ""
   "f7.pdf" 1537493591 20618 79f07e60b3fddabe818874e765ae324c ""
   "nprop30.sty" 1536033573 33563 3bf0ff66a83d8c7efd7fc2be6fe2be8e ""
   "survey.pdf" 1538117891 45353 5f1ae94fa0148fe858846c42d16b9ea7 ""
   (generated)
-  "/Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dthomas50094253655.pdf"
-  "dthomas50094253655.pdf"
   "dthomas50094253655.aux"
   "/Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dthomas50094253655.log"
+  "dthomas50094253655.pdf"
   "dthomas50094253655.log"
+  "/Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dthomas50094253655.pdf"
