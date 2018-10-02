@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  1 OCT 2018 22:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  1 OCT 2018 23:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1499,10 +1499,10 @@ Package rerunfilecheck Info: File `dthomas50094253655.out' has not changed.
 (rerunfilecheck)             Checksum: 702D64A1D926F10B4ADBA9E0C0E88BCF;582.
  ) 
 Here is how much of TeX's memory you used:
- 6105 strings out of 493014
- 89508 string characters out of 6133351
- 217017 words of memory out of 5000000
- 9556 multiletter control sequences out of 15000+600000
+ 6117 strings out of 493014
+ 89823 string characters out of 6133351
+ 217717 words of memory out of 5000000
+ 9565 multiletter control sequences out of 15000+600000
  10819 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  29i,11n,24p,1461b,469s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1519,10 +1519,10 @@ live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texl
 ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
 ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 Output written on /Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dtho
-mas50094253655.pdf (14 pages, 645585 bytes).
+mas50094253655.pdf (14 pages, 646378 bytes).
 PDF statistics:
- 348 PDF objects out of 1000 (max. 8388607)
- 202 compressed objects within 3 object streams
- 45 named destinations out of 1000 (max. 500000)
+ 357 PDF objects out of 1000 (max. 8388607)
+ 211 compressed objects within 3 object streams
+ 48 named destinations out of 1000 (max. 500000)
  72 words of extra memory for PDF output out of 10000 (max. 10000000)
 
