@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  1 OCT 2018 22:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  1 OCT 2018 22:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -951,561 +951,561 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\setbox' on input line 670.
+(hyperref)                removing `\setbox' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@tempboxa' on input line 670.
+(hyperref)                removing `\@tempboxa' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 670.
+(hyperref)                removing `\hbox' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\color@begingroup' on input line 670.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                \kern 3.0pt
-(hyperref)                removed on input line 670.
+(hyperref)                removing `\color@begingroup' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                \kern 3.0pt
-(hyperref)                removed on input line 670.
+(hyperref)                removed on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\endgraf' on input line 670.
+(hyperref)                \kern 3.0pt
+(hyperref)                removed on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\endgroup' on input line 670.
+(hyperref)                removing `\endgraf' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@tempdima' on input line 670.
+(hyperref)                removing `\endgroup' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fboxrule' on input line 670.
+(hyperref)                removing `\@tempdima' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\advance' on input line 670.
+(hyperref)                removing `\fboxrule' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@tempdima' on input line 670.
+(hyperref)                removing `\advance' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fboxsep' on input line 670.
+(hyperref)                removing `\@tempdima' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\advance' on input line 670.
+(hyperref)                removing `\fboxsep' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@tempdima' on input line 670.
+(hyperref)                removing `\advance' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\dp' on input line 670.
+(hyperref)                removing `\@tempdima' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@tempboxa' on input line 670.
+(hyperref)                removing `\dp' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 670.
+(hyperref)                removing `\@tempboxa' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\lower' on input line 670.
+(hyperref)                removing `\hbox' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@tempdima' on input line 670.
+(hyperref)                removing `\lower' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 670.
+(hyperref)                removing `\@tempdima' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\vbox' on input line 670.
+(hyperref)                removing `\hbox' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hrule' on input line 670.
+(hyperref)                removing `\vbox' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fboxrule' on input line 670.
+(hyperref)                removing `\hrule' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 670.
+(hyperref)                removing `\fboxrule' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\vrule' on input line 670.
+(hyperref)                removing `\hbox' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fboxrule' on input line 670.
+(hyperref)                removing `\vrule' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\vbox' on input line 670.
+(hyperref)                removing `\fboxrule' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\vskip' on input line 670.
+(hyperref)                removing `\vbox' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fboxsep' on input line 670.
+(hyperref)                removing `\vskip' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\box' on input line 670.
+(hyperref)                removing `\fboxsep' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@tempboxa' on input line 670.
+(hyperref)                removing `\box' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\vskip' on input line 670.
+(hyperref)                removing `\@tempboxa' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fboxsep' on input line 670.
+(hyperref)                removing `\vskip' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\vrule' on input line 670.
+(hyperref)                removing `\fboxsep' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fboxrule' on input line 670.
+(hyperref)                removing `\vrule' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hrule' on input line 670.
+(hyperref)                removing `\fboxrule' on input line 672.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fboxrule' on input line 670.
+(hyperref)                removing `\hrule' on input line 672.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\fboxrule' on input line 672.
 
 [7]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\setbox' on input line 704.
+(hyperref)                removing `\setbox' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@tempboxa' on input line 704.
+(hyperref)                removing `\@tempboxa' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 704.
+(hyperref)                removing `\hbox' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\color@begingroup' on input line 704.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                \kern 3.0pt
-(hyperref)                removed on input line 704.
+(hyperref)                removing `\color@begingroup' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                \kern 3.0pt
-(hyperref)                removed on input line 704.
+(hyperref)                removed on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\endgraf' on input line 704.
+(hyperref)                \kern 3.0pt
+(hyperref)                removed on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\endgroup' on input line 704.
+(hyperref)                removing `\endgraf' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@tempdima' on input line 704.
+(hyperref)                removing `\endgroup' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fboxrule' on input line 704.
+(hyperref)                removing `\@tempdima' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\advance' on input line 704.
+(hyperref)                removing `\fboxrule' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@tempdima' on input line 704.
+(hyperref)                removing `\advance' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fboxsep' on input line 704.
+(hyperref)                removing `\@tempdima' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\advance' on input line 704.
+(hyperref)                removing `\fboxsep' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@tempdima' on input line 704.
+(hyperref)                removing `\advance' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\dp' on input line 704.
+(hyperref)                removing `\@tempdima' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@tempboxa' on input line 704.
+(hyperref)                removing `\dp' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 704.
+(hyperref)                removing `\@tempboxa' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\lower' on input line 704.
+(hyperref)                removing `\hbox' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@tempdima' on input line 704.
+(hyperref)                removing `\lower' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 704.
+(hyperref)                removing `\@tempdima' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\vbox' on input line 704.
+(hyperref)                removing `\hbox' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hrule' on input line 704.
+(hyperref)                removing `\vbox' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fboxrule' on input line 704.
+(hyperref)                removing `\hrule' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 704.
+(hyperref)                removing `\fboxrule' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\vrule' on input line 704.
+(hyperref)                removing `\hbox' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fboxrule' on input line 704.
+(hyperref)                removing `\vrule' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\vbox' on input line 704.
+(hyperref)                removing `\fboxrule' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\vskip' on input line 704.
+(hyperref)                removing `\vbox' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fboxsep' on input line 704.
+(hyperref)                removing `\vskip' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\box' on input line 704.
+(hyperref)                removing `\fboxsep' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@tempboxa' on input line 704.
+(hyperref)                removing `\box' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\vskip' on input line 704.
+(hyperref)                removing `\@tempboxa' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fboxsep' on input line 704.
+(hyperref)                removing `\vskip' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\vrule' on input line 704.
+(hyperref)                removing `\fboxsep' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fboxrule' on input line 704.
+(hyperref)                removing `\vrule' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hrule' on input line 704.
+(hyperref)                removing `\fboxrule' on input line 706.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fboxrule' on input line 704.
+(hyperref)                removing `\hrule' on input line 706.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\fboxrule' on input line 706.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 759.
+(Font)              <9> on input line 761.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 759.
+(Font)              <5> on input line 761.
 [8]
-Overfull \hbox (15.88173pt too wide) in alignment at lines 762--785
+Overfull \hbox (15.88173pt too wide) in alignment at lines 764--787
  [] [] [] [] [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 785
+Underfull \vbox (badness 10000) detected at line 787
  []
 
 
-Overfull \hbox (15.88173pt too wide) in alignment at lines 785--805
+Overfull \hbox (15.88173pt too wide) in alignment at lines 787--807
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (15.88173pt too wide) in alignment at lines 805--825
+Overfull \hbox (15.88173pt too wide) in alignment at lines 807--827
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (15.88173pt too wide) in alignment at lines 825--845
+Overfull \hbox (15.88173pt too wide) in alignment at lines 827--847
  [] [] [] [] [] [] 
  []
 
 [9]
-Overfull \hbox (15.88173pt too wide) in alignment at lines 845--865
+Overfull \hbox (15.88173pt too wide) in alignment at lines 847--867
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (15.88173pt too wide) in alignment at lines 865--885
+Overfull \hbox (15.88173pt too wide) in alignment at lines 867--887
  [] [] [] [] [] [] 
  []
 
 [10]
-Overfull \hbox (15.88173pt too wide) in alignment at lines 885--905
+Overfull \hbox (15.88173pt too wide) in alignment at lines 887--907
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (15.88173pt too wide) in alignment at lines 905--925
+Overfull \hbox (15.88173pt too wide) in alignment at lines 907--927
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (15.88173pt too wide) in alignment at lines 925--945
+Overfull \hbox (15.88173pt too wide) in alignment at lines 927--947
  [] [] [] [] [] [] 
  []
 
 [11]
-Overfull \hbox (15.88173pt too wide) in alignment at lines 945--965
+Overfull \hbox (15.88173pt too wide) in alignment at lines 947--967
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (15.88173pt too wide) in alignment at lines 965--985
+Overfull \hbox (15.88173pt too wide) in alignment at lines 967--987
  [] [] [] [] [] [] 
  []
 
 [12]
-Overfull \hbox (15.88173pt too wide) in alignment at lines 985--989
+Overfull \hbox (15.88173pt too wide) in alignment at lines 987--991
  [] [] [] [] [] [] 
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\setbox' on input line 1028.
+(hyperref)                removing `\setbox' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@tempboxa' on input line 1028.
+(hyperref)                removing `\@tempboxa' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 1028.
+(hyperref)                removing `\hbox' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\color@begingroup' on input line 1028.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                \kern 3.0pt
-(hyperref)                removed on input line 1028.
+(hyperref)                removing `\color@begingroup' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                \kern 3.0pt
-(hyperref)                removed on input line 1028.
+(hyperref)                removed on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\endgraf' on input line 1028.
+(hyperref)                \kern 3.0pt
+(hyperref)                removed on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\endgroup' on input line 1028.
+(hyperref)                removing `\endgraf' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@tempdima' on input line 1028.
+(hyperref)                removing `\endgroup' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fboxrule' on input line 1028.
+(hyperref)                removing `\@tempdima' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\advance' on input line 1028.
+(hyperref)                removing `\fboxrule' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@tempdima' on input line 1028.
+(hyperref)                removing `\advance' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fboxsep' on input line 1028.
+(hyperref)                removing `\@tempdima' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\advance' on input line 1028.
+(hyperref)                removing `\fboxsep' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@tempdima' on input line 1028.
+(hyperref)                removing `\advance' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\dp' on input line 1028.
+(hyperref)                removing `\@tempdima' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@tempboxa' on input line 1028.
+(hyperref)                removing `\dp' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 1028.
+(hyperref)                removing `\@tempboxa' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\lower' on input line 1028.
+(hyperref)                removing `\hbox' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@tempdima' on input line 1028.
+(hyperref)                removing `\lower' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 1028.
+(hyperref)                removing `\@tempdima' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\vbox' on input line 1028.
+(hyperref)                removing `\hbox' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hrule' on input line 1028.
+(hyperref)                removing `\vbox' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fboxrule' on input line 1028.
+(hyperref)                removing `\hrule' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 1028.
+(hyperref)                removing `\fboxrule' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\vrule' on input line 1028.
+(hyperref)                removing `\hbox' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fboxrule' on input line 1028.
+(hyperref)                removing `\vrule' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\vbox' on input line 1028.
+(hyperref)                removing `\fboxrule' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\vskip' on input line 1028.
+(hyperref)                removing `\vbox' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fboxsep' on input line 1028.
+(hyperref)                removing `\vskip' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\box' on input line 1028.
+(hyperref)                removing `\fboxsep' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@tempboxa' on input line 1028.
+(hyperref)                removing `\box' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\vskip' on input line 1028.
+(hyperref)                removing `\@tempboxa' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fboxsep' on input line 1028.
+(hyperref)                removing `\vskip' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\vrule' on input line 1028.
+(hyperref)                removing `\fboxsep' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fboxrule' on input line 1028.
+(hyperref)                removing `\vrule' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hrule' on input line 1028.
+(hyperref)                removing `\fboxrule' on input line 1030.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\fboxrule' on input line 1028.
+(hyperref)                removing `\hrule' on input line 1030.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\fboxrule' on input line 1030.
 
 
 (/Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dthomas50094253655.bb
 l [13])
 
-Package hyperref Warning: Ignoring empty anchor on input line 1118.
+Package hyperref Warning: Ignoring empty anchor on input line 1120.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1118.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1120.
 [14]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1118.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1120.
 
 (/Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dthomas50094253655.au
 x)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1118.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1118.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1120.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1120.
 
 Package rerunfilecheck Info: File `dthomas50094253655.out' has not changed.
 (rerunfilecheck)             Checksum: 702D64A1D926F10B4ADBA9E0C0E88BCF;582.
  ) 
 Here is how much of TeX's memory you used:
- 6081 strings out of 493014
- 88878 string characters out of 6133351
- 215936 words of memory out of 5000000
- 9538 multiletter control sequences out of 15000+600000
+ 6105 strings out of 493014
+ 89508 string characters out of 6133351
+ 217017 words of memory out of 5000000
+ 9556 multiletter control sequences out of 15000+600000
  10819 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,12n,23p,1461b,469s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,11n,24p,1461b,469s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -1519,10 +1519,10 @@ live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texl
 ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
 ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 Output written on /Users/user/Documents/Professional/NOAO_Proposal_Sep2018/dtho
-mas50094253655.pdf (14 pages, 644264 bytes).
+mas50094253655.pdf (14 pages, 645585 bytes).
 PDF statistics:
- 328 PDF objects out of 1000 (max. 8388607)
- 183 compressed objects within 2 object streams
- 39 named destinations out of 1000 (max. 500000)
+ 348 PDF objects out of 1000 (max. 8388607)
+ 202 compressed objects within 3 object streams
+ 45 named destinations out of 1000 (max. 500000)
  72 words of extra memory for PDF output out of 10000 (max. 10000000)
 
