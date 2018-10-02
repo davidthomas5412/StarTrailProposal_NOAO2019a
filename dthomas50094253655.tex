@@ -583,7 +583,7 @@ The survey we propose covers four K2 fields: 2, 9, 11, and 15. These adjacent fi
 
 The DECam field of view almost perfectly inscribes a single Kepler Module of four CCDs. This allows us to efficiently cover the K2 fields by visiting the center locations of the modules. We tile each field 3 times in the `r' band. The first is a static exposure for reference. The following two visits take 15 second star trail exposures. We discuss these choices further in the technical description. 
 
-\subsection*{Processing and Analysing Star Trail Images}
+\subsection*{Processing and Analyzing Star Trail Images}
 
 The image processing and analysis has three stages. First we generate simulated data and train the algorithm on it. We will use the Sherlock high performance computing cluster at Stanford University to produce a suite of simulated DECam star trail images. CatSim will be used to seed realistic catalogs \citep{2014SPIE.9150E..14C}; PhoSim, which has already been used to study DECam, will be used for the image simulations \citep{2015ApJS..218...14P}. Then we will train networks to detect three variable signatures: bursts, occultations, and smooth trends lasting from tens of milliseconds to minutes.
 
