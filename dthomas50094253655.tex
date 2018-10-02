@@ -364,7 +364,7 @@
 \end{PI}
 
 \begin{CoI}
-\name{Steven M. Kahn}
+\name{Steven Kahn}
 \affil{Stanford University}
 \email{skahn@slac.stanford.edu}
 \invstatus{P}
@@ -476,17 +476,17 @@
 \subsection*{Probing Short Duration Stellar Variability with Star Trails}
 
 
-Time domain astronomy has now begun in earnest and is revolutionizing many fields, especially using large surveys capable of collecting light curves en masse \citep{2012IAUS..285..141D}. However, almost none of these surveys is performing optical monitoring at less than a few minute timescales, omitting a variability regime that we know to be important for studying phenomena ranging from compact stellar remnants to trans-Neptunian objects: sub-second photometry. In \citealt{2018arXiv180806977T} we presented a new method and demonstrated, through simulations, that it is capable of collecting such light curves for thousands of objects at a time. We propose using the Dark Energy Camera (DECam) on the Blanco 4-m telescope to validate this method and to provide sub-second photometry for four strategically chosen K2 fields.
+Time domain astronomy has now begun in earnest and is revolutionizing many fields, especially using large surveys capable of collecting light curves en masse \citep{2012IAUS..285..141D}. However, almost none of these surveys is performing optical monitoring at less than a few minute timescales, omitting a variability regime that we know to be important for studying phenomena ranging from compact stellar remnants to trans-Neptunian objects: sub-second photometry. \citealt{2018arXiv180806977T} presented a new method and demonstrated, through high fidelity ray-tracing simulations, that it is capable of collecting such light curves for thousands of objects at a time. We propose using the Dark Energy Camera (DECam) on the Blanco 4-m telescope to validate this method and to provide sub-second photometry for four strategically chosen K2 fields (shown in Figure \ref{fig:1}).
 
 
 % Charge-Coupled Devices (CCDs), the detector of choice for optical astronomy, take around 10 seconds to read out. This limits the time resolution of conventional telescopes. Dedicated instruments using special frame transfer and electron multiplying CCDs have achieved time resolution in tens of milliseconds on a 5 arcsecond field of view (Dhillon et al. 2007, 2014, 2016; Harding et al. 2016). While these instruments are sufficient for studying individual sources of variability, they are not well-suited for large surveys or searching for new sources of variability. In Thomas \& Kahn (2018), we present a technique that allows existing wide-field telescopes to achieve comparable time resolution. We propose using the Dark Energy Camera (DECam) on the Blanco 4-m telescope to validate this method and to provide sub-second photometry for four strategically chosen K2 fields.
 
 % \subsection*{Exploring the Variable Universe on Short Time Scales}
-Our method is comprised of operational and image processing components. The operational component is to take star trail images. The authors of \citealt{1986PASP...98..802H} realized that each trail serves as a light curve for its corresponding source and facilitates high time resolution photometry. We train a deep neural network to identify stellar variability in simulated star trail images from the Large Synoptic Survey Telescope (LSST). The network detection efficiency on tophat-like flares is shown in Figure \ref{fig:1}. We are preparing the next generation of our network for DECam. 
+Our method is comprised of operational and image processing components. The operational component is to take star trail images. A simulated DECam star trail image is shown in Figure \ref{fig:2}. The authors of \citealt{1986PASP...98..802H} realized that each trail serves as a light curve for its corresponding source and facilitates high time resolution photometry. We have trained a deep neural network to identify stellar variability in simulated star trail images from the Large Synoptic Survey Telescope (LSST). The network detection efficiency on tophat-like flares is shown in Figure \ref{fig:3}. We are preparing the next generation of our network for DECam. 
 
 DECam's wide field of view and superb resolution make it the best instrument to validate our method with \citep{2015AJ....150..150F}. The 2.2 degree field of view captures many sources simultaneously and allows us to survey the sky around 700 times faster than existing high time resolution instruments \citep{2007MNRAS.378..825D}. The wide field is complemented by a 570 Megapixel camera and 0.26 arcsecond pixel scale which mean that a trailing source will spend approximately $17 / \cos(\delta)$ milliseconds over each pixel, leading to excellent time resolution. After validating and further refining our method on DECam we hope to employ it during the commissioning of the LSST. 
 
-The proposed survey is the first of its kind and will add a new dimension to our knowledge of the four chosen K2 fields. Detecting M-dwarf flares in open clusters will allow us to constrain their frequency, correlate them with cluster properties, and compare high time resolution photometry of the flare up with numerical simulations \citep{}. Occultations from trans-Neptunian objects would allow us to detect new structures in the solar system, in particular the small Kuiper Belt Objects that are of particular theoretical interest and which produce occultations lasting for tens of milliseconds. Finally, perhaps the most intriguing possibility is that we will discover new sources of variability. 
+The proposed survey is the first of its kind and will add a new dimension to our knowledge of the four chosen K2 fields. Scanning the sky for M-dwarf flares will allow us to constrain their frequency, correlate them with cluster properties, and compare high time resolution photometry of the flare up with numerical simulations \citep{2017ApJ...849...36Y,2017ApJS..232...26V}. Occultations from trans-Neptunian objects would allow us to detect new structures in the solar system, in particular the small Kuiper Belt Objects that are of particular theoretical interest and which produce occultations lasting for tens of milliseconds \citep{2000Icar..147..530R,2013AJ....146...14Z}. Perhaps the most intriguing possibility is that we will discover new sources of variability. 
 
 %\citep{2017arXiv170705167S}
 
@@ -532,22 +532,22 @@ The proposed survey is the first of its kind and will add a new dimension to our
 
 \begin{figure*}[htb]
 \center
-\includegraphics[scale=0.2]{blank.jpg}
-\caption{Example DECam star trail image.}
-\label{fig:2}
-\end{figure*}
-
-\begin{figure*}[htb]
-\center
-\includegraphics{f7.pdf}
-\caption{The contours show the probability the combined network will detect a burst with the given source magnitude and burst duration. The blue and red contours correspond to burst magnitude changes of -1.0 and -2.5 respectively. The dotted, dashed, and solid lines correspond to 90\%, 50\% and 10\% detection efficiencies respectively.}
+\includegraphics[width=\columnwidth]{survey.eps}
+\caption{The proposed 270 degree star trail survey. The four K2 fields are shown in varying shades of green. Each DECam pointing will inscribe a single Kepler module of 4 CCDs. The first pass will take static exposures; the remaining two passes will take star trail exposures.}
 \label{fig:1}
 \end{figure*}
 
 \begin{figure*}[htb]
 \center
-\includegraphics[scale=0.7]{survey.pdf}
-\caption{The planned survey.}
+\includegraphics[width=\columnwidth]{decamtrails.eps}
+\caption{\textit{Left:} A simulated DECam star trail image on the N4 CCD. The region exhibiting variability is outlined in purple. \textit{Right:} A 100 x 100 pixel crop and zoom-in of the variable region.}
+\label{fig:2}
+\end{figure*}
+
+\begin{figure*}[htb]
+\center
+\includegraphics[width=\columnwidth]{contour.eps}
+\caption{The contours show the probability the network will detect a burst with the given source magnitude and burst duration. The blue and red contours correspond to burst magnitude changes of -1.0 and -2.5 respectively. The dotted, dashed, and solid lines correspond to 90\%, 50\% and 10\% detection efficiencies respectively.}
 \label{fig:3}
 \end{figure*}
 
@@ -631,8 +631,9 @@ The third stage will be scanning the real DECam data and communicating the resul
 
 \otherfacilities
 
-This is LSST pathfinder. We work on LSST commissioning. We have computing resources.
+The proposed survey will provide high time resolution data on 270 square degrees of sky. This will complement multiple analyses already performed on the Kepler field that overlaps it, including ,, .
 
+If this works well, then we can scale it up to the next generation ground-based wide field telescope: the LSST. The PI already is working on commissioning projects on the Telescope and Site team. He also has access to the Sherlock 2.0 computing cluster at Stanford University. This will fulfill our needs.
 
 % LONG-TERM DETAILS
 %
@@ -668,7 +669,7 @@ This is LSST pathfinder. We work on LSST commissioning. We have computing resour
 
 \thepast
 
-This will be the first time David Thomas uses NOAO facilities. He is supported by a team with ample observing and NOAO experience. 
+This will be the first time David Thomas observes at NOAO facilities. He is supported by a team that has ample experience with NOAO facilities including WIYN, Blanco, and the upcoming LSST. 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -1017,8 +1018,8 @@ RA (deg)& Dec (deg)& Filter & Tracking & Exposure Time (sec) & Comment\\
 %  \targetsra{14 to 17}
 %  \targetsdec{-10 to 35}
 
-\targetsra{X hours}			% RA range in hours
-\targetsdec{Y degrees}			% Dec. range in degrees
+\targetsra{3.31 hours}			% RA range in hours
+\targetsdec{15.74 degrees}			% Dec. range in degrees
 
 
 
@@ -1026,7 +1027,7 @@ RA (deg)& Dec (deg)& Filter & Tracking & Exposure Time (sec) & Comment\\
 % usage of instrumentation. 
 \specialrequest
 
-We have discussed using the Blanco telescope and DECam in non-tracking mode with the Blanco Instrument Scientist Dr. Alistair Walker. Dr. Walker believes the taking of trailed images can be automated through the DECam instrument control system, SISPI, which sends commands to the Blanco Telescope Control System. We will work with CTIO to develop and test this capability if our proposal is successful. Working with the telescope operator to manually toggle tracking/non-tracking will be our back up plan.
+We have discussed using the Blanco telescope and DECam in non-tracking mode with the Blanco Instrument Scientist Dr. Alistair Walker. Dr. Walker believes the taking of trailed images can be automated through the DECam instrument control system, SISPI, which sends commands to the Blanco Telescope Control System. We will work with CTIO to develop and test this capability if our proposal is successful. Working with the telescope operator to manually toggle between tracking and non-tracking will be our back up plan.
 
 % If you plan to submit any Target Tables for this run they must be
 % entered here.  Target Tables are required for all queue runs.
